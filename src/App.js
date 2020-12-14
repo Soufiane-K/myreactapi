@@ -1,18 +1,11 @@
-export default App;*/
 import React from 'react';
 
-/**
- * App
- *
- * Simple react js fetch example
- */
+
 class App extends React.Component {
 
-    /**
-     * constructor
-     *
-     * @object  @props  parent props
-     * @object  @state  component state
+    /*
+     constructor
+     
      */
     constructor(props) {
 
@@ -47,8 +40,7 @@ class App extends React.Component {
 
     /**
      * render
-     *
-     * Render UI
+
      */
     render() {
 
